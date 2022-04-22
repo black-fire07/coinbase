@@ -14,5 +14,6 @@ export const providerOptions = {
     options: {
       infuraId: process.env.INFURA_KEY // required
     }
-  }
+  },
+  
 };
